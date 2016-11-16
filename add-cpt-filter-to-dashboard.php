@@ -24,6 +24,4 @@ function your_own_cpt_dashboard_filtering() {
 }
 add_action( 'restrict_manage_posts', 'your_own_cpt_dashboard_filtering' );
 
-//This is awesome!
-
 ?>
