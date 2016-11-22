@@ -27,7 +27,7 @@
   /* ================================================== */
   
   $(document).ready(function ($) {
-    $('.share-to-social').on("click", function(e) {
+    $('INSERT HERE YOUR CLASS OR ID').on("click", function(e) {
       $(this).customerPopup(e);
     });
   });
