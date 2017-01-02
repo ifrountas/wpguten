@@ -8,7 +8,7 @@
 
         if ( is_home() || is_singular( 'YOUR_POST_TYPE_GOES_HERE' ) || is_archive() ) {
 
-            array_splice( $links, 1, 1, '' ); // Leave the last field blank will remove the link in position 1 of breadcrumb
+            array_splice( $links, 1, 1, '' ); // Leaving the last field blank will remove the link in position 1 of breadcrumb
         }
 
         return $links;
