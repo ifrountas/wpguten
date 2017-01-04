@@ -13,7 +13,7 @@
     // Prevent default anchor event
     e.preventDefault();
     
-    // Set values for window
+    // Set values for popup window
     intWidth = intWidth || '500';
     intHeight = intHeight || '400';
     strResize = (blnResize ? 'yes' : 'no');
