@@ -1,5 +1,5 @@
 # wphook.net Tips
-All the tips of the wphook.net site are stored here. You can download and use them in your projects as they are under GPL license. Below you can find a list with the links of the raw files to embed them quickly to your site.
+All the WordPress hooks and filters stored on wphook.net posts are here. You can download and use them in your projects as they are under GPL license. Below you can find a list with the links of the raw files to embed them quickly to your site.
 
 <ul>
 <li><a href="https://raw.githubusercontent.com/ifrountas/wphook-tuts/master/add-cpt-filter-to-dashboard.php">Add Custom Post Type filtering in WordPress dashboard</a></li>
@@ -9,4 +9,5 @@ All the tips of the wphook.net site are stored here. You can download and use th
 <li><a href="https://raw.githubusercontent.com/ifrountas/wphook-tuts/master/change-status-stock.php">Change the Stock status text in WooCommerce with something else</a></li>
 <li><a href="https://raw.githubusercontent.com/ifrountas/wphook-tuts/master/hook-yoast-breadcrumbs.php">Hide from Yoast breadcrumbs whatever you don't like</a></li>
 <li><a href="https://raw.githubusercontent.com/ifrountas/wphook-tuts/master/link-of-first-image-acf-loop.php">Take the first image of an ACF repeater</a></li>
+<li><a href="https://raw.githubusercontent.com/ifrountas/wphook-tuts/master/share.js">Create a popup window to use it on Social media sharing</a></li>
 </ul>
