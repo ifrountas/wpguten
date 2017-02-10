@@ -3,10 +3,10 @@
 //For more details about this function see WordPress Codex
 
 $args = array(
-    'posts_per_page'   => 5,
+    'posts_per_page'   => 10,
     'offset'           => 0,
-    'category'         => '',
-    'category_name'    => 'php',
+    'category'         => 'YOUR CATEGORY ID',
+    'category_name'    => 'YOUR CATEGORY NAME',
     'orderby'          => 'date',
     'order'            => 'DESC',
     'include'          => '',
