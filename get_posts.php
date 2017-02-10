@@ -1,5 +1,3 @@
-
-
 <?php 
 
 //For more details about this function see WordPress Codex
