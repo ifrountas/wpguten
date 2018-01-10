@@ -1,4 +1,4 @@
-# wphook.net Tips
+# wpguten.com Tips
 All the WordPress hooks and filters stored on wphook.net posts are here. You can download and use them in your projects as they are under GPL license. Below you can find a list with the links of the raw files to embed them quickly to your site.
 
 <ul>
